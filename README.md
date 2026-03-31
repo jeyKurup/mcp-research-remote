@@ -1,8 +1,8 @@
 # To Run the MCP Server Local
-uv init
-uv add arxiv mcp
-uv run research_server.py
-ctrl+c to close
+- uv init 
+- uv add arxiv mcp
+- uv run research_server.py
+- ctrl+c to close
 
 
 ## Using mcp inspector
